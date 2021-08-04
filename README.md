@@ -1,2 +1,2 @@
 # test-repo-1
-Testing a commit
+This repo is to test AWS
